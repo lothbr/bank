@@ -1,0 +1,355 @@
+.p-main{
+	margin: 0 auto;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+    padding: 0 25px;
+
+}
+
+.personal-wrap{
+	background-image: url(../images/sona.png);
+	background-position: 40% 5%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+}
+
+.busi-wrap{
+	background-image: url(../images/s.png);
+	background-position: 40% 5%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+}
+
+.insurance-wrap{
+	background-image: url(../images/image.jpg);
+	background-position: 40% 5%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+}
+
+.resources{
+	background-image: url(../images/so.jpg);
+	background-position: 40% 5%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+}
+
+.sample{
+	font-size: 33px;
+    float: left;
+    line-height: 100%;
+    margin-top: 30px;
+    color: #00254d;
+    margin-bottom: 15px;
+    font-weight: 350;
+}
+
+.sample-p{
+	color: #333333;
+}
+
+.personal .h2{
+	font-style: normal;
+	font-weight: 420;
+	line-height: 1.4;
+	font-size: 2em;
+}
+
+.content-box h2{
+	color: #008c82;
+    text-decoration: none;
+    outline: none;
+    border-bottom: 1px solid  #008c82;
+}
+
+.mid{
+	font-weight: normal;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+    font-size: 2.125rem;
+    letter-spacing: -1px;
+    text-align: left;
+    font: bold 33px/33px 'SourceSansPro', sans-serif;
+    display: block;
+    font-family: 'Arsenal', 'SourceSansPro', sans-serif;
+    color: #00254d !important;
+    display: block;
+}
+
+.main-res .h2{
+	font-weight: normal;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+    font-size: 2.125rem;
+    letter-spacing: -1px;
+    text-align: left;
+    font: bold 33px/33px 'SourceSansPro', sans-serif;
+    display: block;
+    font-family: 'Arsenal', 'SourceSansPro', sans-serif;
+    color: #00254d !important;
+    display: block;
+}
+
+.main-res span{
+	font-size: 13px !important;
+}
+.content-box li{
+	font-size: 0.9em;
+}
+
+.change-color{
+	color: #008c82;
+}
+
+.news-main .box{
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+}
+
+.news h1{
+	font-weight: normal;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+	letter-spacing: -1px;
+	font-size: 2.125rem !important;
+    text-align: left;
+    font: bold 33px/33px 'SourceSansPro', sans-serif;
+    display: block;
+    font-family: 'Arsenal', 'SourceSansPro', sans-serif;
+    color: #00254d !important;
+    display: block;	
+}
+
+.career-main h1{
+	font-weight: normal;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+	letter-spacing: -1px;
+	font-size: 1.5rem !important;	
+    text-align: left;
+    font: bold 33px/33px 'SourceSansPro', sans-serif;
+    display: block;
+    font-family: 'Arsenal', 'SourceSansPro', sans-serif;
+    color: #00254d !important;
+    display: block;
+}
+
+
+.career-main .text{
+	font-size: 2.125rem !important;
+	font-weight: 500;
+}
+.career-main h2{
+	font-size: 1em !important;
+	font-weight: 500;
+	line-height: 1.5;
+	color: #1c8b85 !important;
+}
+
+.career-main h3{
+	font-size: 1.5em !important;
+	font-weight: 500;
+	line-height: 1.5;
+	color: #00254d !important;
+} 
+
+.contact-main #h1{
+	font-weight: 700 !important;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.5;
+	letter-spacing: -1px;
+	font-size: 2rem !important;	
+    text-align: left;
+    display: block;
+    font-family: 'Arsenal', 'SourceSansPro', sans-serif;
+    color: #00254d !important;
+    display: block;
+}
+
+.contact-main #about{
+	padding: 0;
+}
+
+.contact-main #about li{
+	padding: 0;
+	float: left;
+	list-style-type: none;
+	padding-right: 5px;
+}
+
+.contact-main #about li a{
+	color:#00254d !important;
+	transition: all 0.5s;
+}
+
+.contact-main #about li a:hover{
+	color: #008c82 !important;
+	text-decoration: none !important;
+}
+
+.contact-main input{
+	outline: none !important;
+}
+
+.contact-main textarea{
+	width: 100%;
+	resize: none;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid rgba(177, 177, 177, 0.56) !important;
+}
+
+
+.about-main #about li{
+	padding: 0;
+	float: left;
+	list-style-type: none;
+	padding-right: 5px;
+}
+
+.about-main #about li a{
+	color:#00254d !important;
+	transition: all 0.5s;
+}
+
+.about-main #about li a:hover{
+	color: #008c82 !important;
+	text-decoration: none !important;
+}
+
+
+.about-main h1{
+	font-size: 2.125rem !important;
+	color: #00254d !important;;	
+}
+
+.about-main h2{
+	color: #008c82;;
+}
+
+.about-main h3{
+	font: bold 14px/15px 'SourceSansPro', sans-serif;
+    font-family: 'Arsenal', 'SourceSansPro', sans-serif;
+	display: block;
+	line-height: 1.4;
+	font-size: 1.375rem;
+	color: #424242 !important;
+}
+
+.about-main p{
+	font-size: 0.875rem;
+}
+
+
+
+
+
+
+
+@media (max-width: 480px) {
+	.mid{
+	    line-height: 1.4;
+	    font-size: 1.325rem;
+	    text-align: center;
+	 
+	}
+
+	.news h1{
+		text-align: center;
+		font-size: 35px !important;
+		margin: 30px 10px !important;
+	}
+	.news-main .box h3{
+		text-align: center;
+		font-size: 18px !important;
+		margin-bottom: 29px !important;
+	}
+
+	.news-main .box p{
+		width: 100% !important;
+		text-align: center;
+	}
+}
+
+
+
+@media (max-width: 768px) {
+	.p-main{
+		max-width: 100% !important;
+
+	}
+	.personal-wrap{
+		background-position: 50% 10%;
+		overflow: hidden;
+	}
+
+	.personal{
+		overflow: hidden;
+	}
+	.busi-wrap{
+		background-position: 50% 10%;
+		overflow: hidden;
+	}
+
+	/*.mid{
+		font-size: 18px !important;
+		text-align: center;
+	}*/
+
+	.insurance-wrap{
+	 	background-position: 50% 10%;
+		overflow: hidden;
+	}
+
+	.resources{
+		background-position: 50% 10%;
+		overflow: hidden;
+	}
+
+
+ }
+
+
+@media only screen and (min-width: 768px) and (max-width: 991.98px) { 
+	.p-main{
+		max-width: 100% !important;
+		padding-left: 30px !important;
+
+	}
+
+	/*.mid{
+		font-size: 20px !important;
+	}
+*/
+	.busi-wrap{
+		background-position: 60% 15%;
+	}
+	.personal-wrap{
+		background-position: 60% 15%;
+	}
+
+	.insurance-wrap{
+	 	background-position: 60% 15%;
+	}
+
+	.resources{
+		background-position: 60% 15%;
+	}
+ }

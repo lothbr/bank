@@ -1,0 +1,107 @@
+.main{
+    background: url(../images/switchkit.jpg);
+    background-size: cover;
+}
+.mobile-name p{
+    font-weight: 500;
+    text-shadow:   0px 0px 8px rgba(0,0,0,0.5);
+    color: #0D6E68;
+}
+.dash{
+    background: #fff;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+}
+
+.dash h1{
+    font-size: 1.8rem;
+}
+
+.pro-main .pic{
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+    height: 250px !important;
+}
+
+.pro-main h1{
+    font-size: 1.1em !important;
+}
+
+.transfer{
+    background-color: rgba(0, 37, 77, 0.19);
+    border: 1px solid rgba(0, 37, 77, 0.19);
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.9)
+}
+
+#dash{
+    display: none;
+    background-color: #13171E;
+}
+
+#dash-open{
+    font-weight: 500;
+    position: relative;
+}
+
+
+#dash-open span{
+    position: absolute;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: -2px;
+    right: 10%;
+    top: 15px;
+    transition: opacity 0.5s;
+
+    
+}
+
+#dash-open span.close{
+    display: none;
+    font-size: 22px;
+    font-weight: 900;
+    margin-top: 3px;
+    right: 10%;
+    top: 15px;
+    transition: opacity 0.5s;
+}
+
+#dash-open span.close .minus{
+    width: 13px;
+    height: 5px;
+    background: #FFFFFF;
+    margin-top: 20px;
+   
+}
+
+#dash-open span .fa::before{
+    font-size: 12px;
+}
+
+
+
+#dash-open span.on{
+    display: block;
+}
+
+#dash-open span.off{
+    display: none;
+}
+
+
+
+
+
+/* .first::before{
+    content: "+";
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: -2px;
+    float: right;
+    margin-right: 10%;
+    height: 63px;
+    padding-top: 15px;
+} */
+
+
+
